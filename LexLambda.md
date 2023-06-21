@@ -1,4 +1,6 @@
 
+# © 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
 
 # Creating the Lambda Function
 
@@ -44,7 +46,7 @@ Open the Amazon Lex console to bind the `getFGIndex` lambda function to the "Bit
 
 ![Enabling Lambda initialization and validation in Amazon Lex](Images/15-1-enabling-lambda-validation.png)
 
-A pop-window will appear next, asking you for permission to invoke your Lambda Function. Click on the "Ok" button to continue. 
+A pop-window will appear next, asking you for permission to invoke your Lambda Function. Click on the "Ok" button to continue.
 
 ![A window asking for execution permission for the Lambda function](Images/15-1-lambda-permissions.png)
 
@@ -54,3 +56,4 @@ Scroll down to the "Confirmation prompt" section and disable the checkbox. Next,
 
 Test the Lambda powered bot with some of the sample utterances; DONE
 
+# © 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
